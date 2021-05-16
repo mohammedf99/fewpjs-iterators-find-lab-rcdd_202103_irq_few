@@ -5,5 +5,5 @@ function testFunc() {
 }
 
 function superbowlWin(arrOfObjects) {
-  arrOfObj.find(obj => obj.result === "W");
+  arrOfObj.find(obj.result => "W");
 }
